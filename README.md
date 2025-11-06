@@ -110,20 +110,10 @@ The main functionality of this repository is implemented through multiple Python
 * **FAISS Integration** (`vectorize_embed`): The FAISS vector store is used for storing document embeddings and enabling fast, semantic search.
 * **Tools and API Calls** (`list_tools`, `call_tool`): The system exposes tools for querying and modifying documents and performing vector-based searches.
 
-## License
-
-This repository does not contain an explicit license. All rights reserved to the author.
 
 ## Contributing
 
 Feel free to fork this repository and create pull requests for any improvements or bug fixes. Please follow the existing code style and write tests for new functionality. If you encounter any issues, please open an issue in the repository.
 
-## Acknowledgments
-
-* **Tesseract** for OCR.
-* **FAISS** for fast, efficient vector-based search.
-* **LangChain** for modular RAG pipeline management.
-* **HuggingFace** for state-of-the-art embedding models.
-
 ---
-This repository is provided "as-is" without any warranty or support. All rights reserved to the author. You may not use, copy, modify, or distribute any part of this repository without explicit permission from the author.
+All rights reserved to the author. You may not use, copy, modify, or distribute any part of this repository without explicit permission from the author.
